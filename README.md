@@ -1,5 +1,5 @@
 # Portfolio
-🟦 [ABOUT ME](#about-me) 🟦 [COURSES](#courses) 
+🟦 [ABOUT ME](#about-me) 🟦 [TOOLS](#tools) 🟦 [COURSES](#courses) 
 🟦 [PROJECTS](#projects) 🟦 [SQL](#sql) 
 🟦 [SKILLS TRAINING](#skills-training) 🟦 [BOOKS](#books) 
 
@@ -16,7 +16,25 @@ Collaborating with the project team and taking actions under time pressure are p
 
 [LinkedIn](http://www.linkedin.com/in/monika-ksi%C4%85%C5%BCkiewicz-96ba47226)
 
+[CV](https://drive.google.com/file/d/1MH3QcUrXzOUwHF9uXLK3x6Q09oO1alct/view?usp=drive_link)
+
 ----
+
+## Tools
+
+➡️ PostgreSQL
+
+➡️ MS SQL Server
+
+➡️ Jira
+
+➡️ TestLink
+
+➡️ Screenpresso
+
+➡️ ShareX
+
+---
 
  ## Courses 
  
