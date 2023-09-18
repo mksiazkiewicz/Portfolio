@@ -16,7 +16,7 @@ Collaborating with the project team and taking actions under time pressure are p
 
 [LinkedIn](http://www.linkedin.com/in/monika-ksi%C4%85%C5%BCkiewicz-96ba47226)
 
-[CV](https://drive.google.com/file/d/1MH3QcUrXzOUwHF9uXLK3x6Q09oO1alct/view?usp=drive_link)
+[CV](https://drive.google.com/file/d/1zs9wSNntDObRdFCGvWXJUp_oiSOW3Czn/view?usp=drive_link)
 
 ----
 
@@ -60,6 +60,10 @@ Collaborating with the project team and taking actions under time pressure are p
 
 ➡️[Sample test reports](https://drive.google.com/file/d/1Saay5x6P1mUTv0bF5GMu35ZrazCBNo8e/view?usp=drive_link)
 
+### Bug reports - Jira
+
+➡️ [MrBuggy7](https://drive.google.com/file/d/1WzCWo82V8nZYcEIrBLH-SJQ4lUhz0eKT/view?usp=sharing)
+
 ----
 ## SQL
 
@@ -73,5 +77,11 @@ Collaborating with the project team and taking actions under time pressure are p
 
 🖥️ [HackerRank](https://www.hackerrank.com/)
 
+🐞 [MrBuggy3](http://mrbuggy.pl/mrbuggy3/)
+
+😈 [MrBuggy7](http://mrbuggy.pl/mrbuggy7/)
+
 ## Books 
 📘 Język SQL. Przyjazny podręcznik - Larry Rockoff
+
+📗 Zawód tester - Radosław Smilgin
