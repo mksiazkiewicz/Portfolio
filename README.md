@@ -58,7 +58,7 @@ Collaborating with the project team and taking actions under time pressure are p
 
 **Test reports**
 
-➡️[Sample test reports](https://drive.google.com/file/d/1g4NozPnFYDEVcR8Wcs2pJhQDxrD-HeLd/view?usp=drive_link) *Test environment:* <a href="https://szpitalopatow.pl/" target="_blank"> Web page</a>
+➡️[Sample test reports](https://drive.google.com/file/d/1576tHOoTfHsPSBx4Xqir4N7mxZJSUQxC/view?usp=drive_link) *Test environment:* <a href="https://szpitalopatow.pl/" target="_blank"> Web page</a>
 
 **Bug reports - Jira**
 
@@ -85,7 +85,7 @@ Collaborating with the project team and taking actions under time pressure are p
 
   **Testing - Mr Buggy**
 
-  Mr. Buggy is an aplication which was created for the 2013 TestingCup Polish Software Testing Championships to verify the knowledge and skills of testers. 
+  Mr. Buggy is an application which contains different bugs. It was created for the 2013 TestingCup Polish Software Testing Championships to verify the knowledge and skills of testers. 
 
 - 🐞 [**MrBuggy3**](http://mrbuggy.pl/mrbuggy3/) 
 
