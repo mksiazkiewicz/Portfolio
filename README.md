@@ -4,7 +4,7 @@
 🟦 [SKILLS TRAINING](#skills-training) 🟦 [BOOKS](#books) 
 
 ---
-## About me 
+## <a name="about-me"> ABOUT ME</a> 
 
 I am currently working as a Project Specialist where I am involved in process automation, seeking new solutions, testing tools and software modules. 
 
@@ -20,7 +20,7 @@ Collaborating with the project team and taking actions under time pressure are p
 
 ----
 
-## Tools
+## <a name="tools"> TOOLS</a>
 
 ➡️ PostgreSQL
 
@@ -36,7 +36,7 @@ Collaborating with the project team and taking actions under time pressure are p
 
 ---
 
- ## Courses 
+ ## <a name="courses"> COURSES</a>
  
 🔹[Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
   
@@ -50,38 +50,49 @@ Collaborating with the project team and taking actions under time pressure are p
 
 ----
 
-## Projects
+## <a name="projects"> PROJECTS</a>
 
-### Test cases 
+**Test cases**
 
-➡️[Sample test cases](https://drive.google.com/file/d/1pi8VZ9RyieBBUg3L5fkonUazQb0NbVI5/view?usp=drive_link)
+➡️[Sample test cases](https://drive.google.com/file/d/1pi8VZ9RyieBBUg3L5fkonUazQb0NbVI5/view?usp=drive_link) *Test environment:* <a href="https://szpitalopatow.pl/" target="_blank"> Web page</a>
 
-### Test reports
+**Test reports**
 
-➡️[Sample test reports](https://drive.google.com/file/d/1Saay5x6P1mUTv0bF5GMu35ZrazCBNo8e/view?usp=drive_link)
+➡️[Sample test reports](https://drive.google.com/file/d/1g4NozPnFYDEVcR8Wcs2pJhQDxrD-HeLd/view?usp=drive_link) *Test environment:* <a href="https://szpitalopatow.pl/" target="_blank"> Web page</a>
 
-### Bug reports - Jira
+**Bug reports - Jira**
 
-➡️ [MrBuggy7](https://drive.google.com/file/d/1WzCWo82V8nZYcEIrBLH-SJQ4lUhz0eKT/view?usp=sharing)
+➡️ [Sample bug reports](https://drive.google.com/file/d/1WzCWo82V8nZYcEIrBLH-SJQ4lUhz0eKT/view?usp=sharing) *Test environment:* <a href="https://mrbuggy.pl/" target="_blank"> Mr Buggy</a>
 
 ----
-## SQL
+## <a name="sql"> SQL</a>
 
 - 💻 [SQL presentation](https://drive.google.com/file/d/1t_Fu9fqgK7wrvIWjWhb7LQl_XBrOVKch/view?usp=drive_link/)
 
 -----
 
-## Skills training
+## <a name="skills-training"> SKILLS TRAINING</a>
 
- 📱  [SOLOLEARN](https://www.sololearn.com/?v=2)
+- 📱  [**SOLOLEARN**](https://www.sololearn.com/?v=2) 
+ 
+  ![](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white&logo=sqlite) 
+  
+  ![](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
 
-🖥️ [HackerRank](https://www.hackerrank.com/)
+- 🖥️ [**HackerRank**](https://www.hackerrank.com/)
 
-🐞 [MrBuggy3](http://mrbuggy.pl/mrbuggy3/)
+  ![](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white&logo=sqlite)
 
-😈 [MrBuggy7](http://mrbuggy.pl/mrbuggy7/)
+  **Testing - Mr Buggy**
 
-## Books 
+  Mr. Buggy is an aplication which was created for the 2013 TestingCup Polish Software Testing Championships to verify the knowledge and skills of testers. 
+
+- 🐞 [**MrBuggy3**](http://mrbuggy.pl/mrbuggy3/) 
+
+- 😈 [**MrBuggy7**](http://mrbuggy.pl/mrbuggy7/)
+
+## <a name="books"> BOOKS</a> 
+
 📘 Język SQL. Przyjazny podręcznik - Larry Rockoff
 
 📗 Zawód tester - Radosław Smilgin
