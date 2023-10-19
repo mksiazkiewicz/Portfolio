@@ -6,15 +6,16 @@
 ---
 ## <a name="about-me"> ABOUT ME</a> 
 
-I am currently working as a Project Specialist where I am involved in process automation, seeking new solutions, testing tools and software modules. 
+My name is Monika, I am currently working as a Project Specialist where I am involved in process automation, seeking new solutions, testing tools and software modules. 
 
-Discovering errors, solving problems are motivating for me in my daily work.
+Discovering errors and solving problems are satisfying for me in my daily work.
 
 I am attentive to detail, I know how to manage my time. 
 
 Collaborating with the project team and taking actions under time pressure are part of my daily work.
 
-[LinkedIn](http://www.linkedin.com/in/monika-ksi%C4%85%C5%BCkiewicz-96ba47226)
+
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/monika-ksi%C4%85%C5%BCkiewicz-96ba47226)
 
 [CV](https://drive.google.com/file/d/1zs9wSNntDObRdFCGvWXJUp_oiSOW3Czn/view?usp=drive_link)
 
@@ -48,6 +49,8 @@ Collaborating with the project team and taking actions under time pressure are p
   
 🔹[SQL Server - Modyfikacja danych, transakcje i błędy](https://www.udemy.com/course/sql-server-modyfikacja-danych-transakcje-oblsuga-bledow/)
 
+🔹[The Complete JavaScript Course 2023](https://www.udemy.com/course/the-complete-javascript-course/) - in progress 
+
 ----
 
 ## <a name="projects"> PROJECTS</a>
@@ -76,8 +79,12 @@ Collaborating with the project team and taking actions under time pressure are p
 - 📱  [**SOLOLEARN**](https://www.sololearn.com/?v=2) 
  
   ![](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white&logo=sqlite) 
-  
-  ![](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
+ ![](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
+
+- 🖥️ [**Codewars**](https://www.codewars.com/)
+
+  ![](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white&logo=sqlite) 
+   ![](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
 
 - 🖥️ [**HackerRank**](https://www.hackerrank.com/)
 
