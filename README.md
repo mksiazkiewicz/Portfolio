@@ -29,6 +29,8 @@ Collaborating with the project team and taking actions under time pressure are p
 
 ➡️ Jira
 
+➡️ Postman
+
 ➡️ TestLink
 
 ➡️ Screenpresso
@@ -40,6 +42,13 @@ Collaborating with the project team and taking actions under time pressure are p
  ## <a name="courses"> COURSES</a>
  
 🔹[Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
+
+- creating test plans and test cases
+- exploratory testing
+- creating error reports
+- Jira - bug reporting
+- Postman - basics
+- Git - basics
   
 🔹[SQL dla początkujących - PostgreSQL](https://www.udemy.com/course/sql-dla-poczatkujacych-postgresql-z-podrecznikiem-pdf/)
 
@@ -66,6 +75,10 @@ Collaborating with the project team and taking actions under time pressure are p
 **Bug reports - Jira**
 
 ➡️ [Sample bug reports](https://drive.google.com/file/d/1WzCWo82V8nZYcEIrBLH-SJQ4lUhz0eKT/view?usp=sharing) *Test environment:* <a href="https://mrbuggy.pl/" target="_blank"> Mr Buggy</a>
+
+**Postman**
+
+➡️ [Simple Book API](https://github.com/mksiazkiewicz/Simple-Book-API)
 
 ----
 ## <a name="sql"> SQL</a>
