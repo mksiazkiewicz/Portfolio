@@ -17,7 +17,7 @@ Collaborating with the project team and taking actions under time pressure are p
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/monika-ksi%C4%85%C5%BCkiewicz-96ba47226)
 
-[CV](https://drive.google.com/file/d/1zs9wSNntDObRdFCGvWXJUp_oiSOW3Czn/view?usp=drive_link)
+[CV](https://drive.google.com/file/d/1gcc7iRZlXGHndQWKVoGMQipO0tBW43Pg/view?usp=drive_link)
 
 ----
 
